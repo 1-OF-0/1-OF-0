@@ -9,8 +9,13 @@
   <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="600" height="300"/>
 </div>
 
+
 ---
 
 ### :fire: My Stats :
+
+[![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=manish-xyz)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manish-xyz&theme=tokyonight)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manish-xyz)](https://git.io/streak-stats)
