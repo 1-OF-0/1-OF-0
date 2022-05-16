@@ -1,5 +1,16 @@
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" width="100"/>
+<h1 align="center">
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="600" height="300"/>
 </div>
-<img src="https://komarev.com/ghpvc/?username=manish-xyz&style=flat-square&color=blue" alt=""/>
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manish-xyz)](https://git.io/streak-stats)
