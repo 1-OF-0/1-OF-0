@@ -14,7 +14,7 @@
 
 ### :fire: My Stats :
 
-![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=manish&theme=radical_icons=true)
+![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=manish-xyz&theme=radical_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manish-xyz&theme=tokyonight)
 
