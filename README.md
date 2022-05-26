@@ -18,4 +18,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manish-xyz&theme=tokyonight)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manish-xyz)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manish-xyz&theme=radical)](https://git.io/streak-stats)
