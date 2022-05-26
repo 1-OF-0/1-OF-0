@@ -6,20 +6,5 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/Y0b2MpUTfnrUa3jIM7/giphy.gif">
 </div>
-
-
----
-
-### :fire: My Stats :
-
-<div align="center">
-
-![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=manish-xyz&theme=radical&show_icons=true)
-  
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manish-xyz&theme=radical)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manish-xyz&theme=radical)
-
-  </div>
