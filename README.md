@@ -16,6 +16,6 @@
 
 ![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=manish-xyz&theme=radical&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manish-xyz&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manish-xyz&theme=radical)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manish-xyz&theme=radical)](https://git.io/streak-stats)
