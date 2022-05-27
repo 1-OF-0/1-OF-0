@@ -9,5 +9,5 @@
   <img src="https://media.giphy.com/media/Y0b2MpUTfnrUa3jIM7/giphy.gif">
 </div>
 
-## Skill:
-#### Can print 'hi mom' in ten different languages.
+## I can print 'hi mom' in ten different languages. :smile:
+
