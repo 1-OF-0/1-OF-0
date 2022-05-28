@@ -10,7 +10,7 @@
 </div>
 
 :smile:
-<img src="https://profile-counter.glitch.me/manish-xyz/
+
 
 
 
