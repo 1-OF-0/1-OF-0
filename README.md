@@ -10,7 +10,7 @@
 </div>
 
 :smile:
-<img src="https://profile-counter.glitch.me/lucasbivar/count.svg" />
+<img src="https://profile-counter.glitch.me/manish-xyz/count.svg" />
 
 </p>
 
