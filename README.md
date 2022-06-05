@@ -11,7 +11,7 @@
 
 :smile:
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=manish-xyz&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user==manish-xyz&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=manish-xyz&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manish-xyz)](https://git.io/streak-stats)
 
 
 
