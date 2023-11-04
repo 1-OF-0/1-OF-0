@@ -12,3 +12,10 @@
 :smile:
 
 -manish
+
+<div align = 'center'> 
+  
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ushady&langs_count=8" alt = "Top Langs"> 
+ <img src = "https://metrics.lecoq.io/ushady?template=classic&config.timezone=Asia%2FJakarta" alt = "Metrics"> 
+  
+ </div>
