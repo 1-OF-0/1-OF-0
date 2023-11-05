@@ -1,3 +1,5 @@
+<p align="center">  
+     <a href="https://github.com/0-OF-1"><img alt="0xor0ne" src="https://komarev.com/ghpvc/?username=0xor0ne"></a>
 
 <h1 align="center">
   hey there
